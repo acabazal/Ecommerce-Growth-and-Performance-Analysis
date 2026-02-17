@@ -5,7 +5,30 @@ This project uses Maven Analytics' Fuzzy Factory dataset to explore marketing, w
 
 ## Key Insights
 ### Traffic and Channel Performance
-**Findings:** Branded searches via Bing generate the highest RPS (6.21%), with nonbrand searches in Google (5.2%) coming in at second. This implies that
+**Bing remains supreme in terms of Revenue per Session (RPS) and conversion with Google coming in as a close second.**  
+- Bing's performance in branded RPS (6.21%) and conversion rate (8.75%) indicates a high buying intent among customers in this channel.
+- Google's performance in nonbrand RPS (5.2%) and conversion rate of 8.55% shows that SEO strategies and landing pages are efficient in converting strangers to customers.
+  
+**Recommendation:** As high-intention is already present in Bing, shifting the budget to enhancing visibility in Google can optimize traffic channels and influence awareness. Increasing online presence in social media channels may boost organic traffic. 
+
+
+**Customers are mainly present via desktop.**
+- RPS through desktop devices is the highest across all traffic channels (Organic searches, Google, and Bing)
+- May imply that purchases are characterized by high intent rather than impulse. 
+
+**Recommendation:** Optimize website experience for desktop users. To capitalize on impulse buying behavior, boosting social media visibility is key to direct traffic from social media channels to the official website. Providing a seamless mobile shopping experience is crucial in boosting mobile conversion rates. 
+
+### Conversion Behavior
+**Bing is the touchpoint of first-time buyers and repeat purchases.**  
+- While Organic traffic remains supreme in repeat purchases, Bing consistently outperforms Google in bringing repeat purchases.
+- This further enforces Bing's efficiency in bringing high-intent and repeat customers.
+
+**Organic traffic brings the shortest second purchase interval (18 days), followed by Google (27 days) and Bing (34 days).**
+- Second purchases take over a month in Bing despite its high efficiency and conversion.
+
+**Recommendation:** Strengthen after-sales relationships with customers through email marketing by sending follow-up emails after ~15 days of the previous purchase. Provide exclusive small discounts after a month of inactivity. 
+
+
 
 
 ## Measures Explored (SQL)
