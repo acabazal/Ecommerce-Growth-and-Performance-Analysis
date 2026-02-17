@@ -6,8 +6,8 @@ This project uses Maven Analytics' Fuzzy Factory dataset to explore marketing, w
 ## Key Insights
 ### 📍 Traffic and Channel Performance
 **Bing remains supreme in terms of Revenue per Session (RPS) and conversion with Google coming in as a close second.**  
-- Bing's performance in branded RPS (6.21%) and conversion rate (8.75%) indicates a high buying intent among customers in this channel.
-- Google's performance in nonbrand RPS (5.2%) and conversion rate of 8.55% shows that SEO strategies and landing pages are efficient in converting strangers to customers.
+- Bing's performance in branded RPS (6.21) and conversion rate (8.75%) indicates a high buying intent among customers in this channel.
+- Google's performance in nonbrand RPS (5.2) and conversion rate of 8.55% shows that SEO strategies and landing pages are efficient in converting strangers to customers.
   
 **💫 Recommendation:** As high-intention is already present in Bing, shifting the budget to enhancing visibility in Google can optimize traffic channels and influence awareness. Increasing online presence in social media channels may boost organic traffic. 
 
